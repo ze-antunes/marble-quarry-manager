@@ -1,0 +1,10 @@
+pt\project\marblequarry\manager\Main.class
+pt\project\marblequarry\manager\repos\OrderRepository.class
+pt\project\marblequarry\manager\repos\BlockRepository.class
+pt\project\marblequarry\manager\ui\Menu.class
+pt\project\marblequarry\manager\model\Order.class
+pt\project\marblequarry\manager\model\Stock.class
+pt\project\marblequarry\manager\config\DBConnection.class
+pt\project\marblequarry\manager\service\StockService.class
+pt\project\marblequarry\manager\model\Block.class
+pt\project\marblequarry\manager\service\CuttingService.class
