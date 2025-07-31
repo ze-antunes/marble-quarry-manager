@@ -1,0 +1,13 @@
+# VS Code settings
+.vscode/
+
+# Maven build output
+target/
+
+# Logs e ficheiros temporários
+*.log
+*.class
+*.jar
+
+# Variáveis de ambiente
+.env
